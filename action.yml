@@ -1,5 +1,5 @@
 # action.yml
-name: 'Hello World'
+name: 'Hello World rain'
 description: 'Greet someone and record the time'
 inputs:
   testnamepwd:  # id of input
